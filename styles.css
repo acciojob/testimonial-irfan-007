@@ -1,1 +1,21 @@
 /*  your css code here. If applicable */
+body{
+	background-color:#f5f5f5;
+}
+.main-container{
+	padding:2rem;
+	background-color:gray;
+}
+.testimonial{
+	padding:2rem;
+	background-color:wheat;
+	border:1px solid gray;
+	margin:1rem;
+	border-radius:25px;
+	text-align:left;
+}
+.author{
+	text-align:right;
+	font-style:italic;
+	float:right;
+}
