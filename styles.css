@@ -7,15 +7,15 @@ body{
 	background-color:gray;
 }
 .testimonial{
-	padding:2rem;
+	padding:3rem;
 	background-color:wheat;
 	border:1px solid gray;
 	margin:1rem;
 	border-radius:25px;
 	text-align:left;
+	position:relative;
 }
 .author{
 	text-align:right;
 	font-style:italic;
-	float:right;
 }
