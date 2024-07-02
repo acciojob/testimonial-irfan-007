@@ -1,19 +1,14 @@
 /*  your css code here. If applicable */
-body{
-	background-color:#f5f5f5;
-}
 .main-container{
 	padding:2rem;
-	background-color:gray;
+	background-color:#f5f5f5;
 }
 .testimonial{
-	padding:3rem;
+	padding:1.2rem;
 	background-color:wheat;
 	border:1px solid gray;
 	margin:1rem;
 	border-radius:25px;
-	text-align:left;
-	position:relative;
 }
 .author{
 	text-align:right;
